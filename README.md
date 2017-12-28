@@ -66,9 +66,9 @@ File" to consider fewer populations, if you wish.
 Output Files:
 
 Allele Frequency Spectrum (AFS) file: this file is tab-delimited, with each row
-representing a different locus (specific position on a scaffold/contig). This first and
+representing a different locus (specific position on a scaffold/contig). The first and
 second column represent the scaffold and position, respectively, and the following columns
-are the allele frequencies for each population.
+are the derived allele proportions for each population and range from 0 to 1.
 
 QC file: This file shows some information about the populations, including the number of
 individuals per population but also the number of individuals *after* downsampling. It

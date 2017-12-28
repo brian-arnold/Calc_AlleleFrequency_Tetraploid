@@ -44,6 +44,7 @@ the same directory as the script. Otherwise, provide the full file path in the f
 as well.
 
 ########################################
+
 How script works:
 With these files, this program goes through the VCF file and calculates allele frequencies
 for loci with sufficient data for each population. For loci in which a population has
@@ -59,6 +60,7 @@ if *all* populations have sufficient data. You may modify the "Population Identi
 File" to consider fewer populations, if you wish.
  
 ########################################
+
 Output Files:
 
 Allele Frequency Spectrum (AFS) file: this file is tab-delimited, with each row

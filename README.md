@@ -46,6 +46,7 @@ as well.
 ########################################
 
 How script works:
+
 With these files, this program goes through the VCF file and calculates allele frequencies
 for loci with sufficient data for each population. For loci in which a population has
 *more* genotypes than the required proportion (see input arguments above), alleles are

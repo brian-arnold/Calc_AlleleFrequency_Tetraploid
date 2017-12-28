@@ -23,6 +23,7 @@ these individuals will be ignored. This could be useful if you want to look at a
 the data.
 
 ########################################
+
 Input Arguments (specified after script name, separated by spaces; see "Usage" above):
 
 1.) Sequencing depth cutoff. This program only considers genotypes that have a minimum

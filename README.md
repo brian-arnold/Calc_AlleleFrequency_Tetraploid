@@ -5,7 +5,8 @@ At the moment this script only accommodates tetraploid data and not mixed ploidy
 
 Usage: perl Calc_AlleleFrequency_Tetraploid.pl Argument1 Argument2 Argument3 Argument4
 
-########################################\n
+########################################
+
 Input Files:
 
 1.) VCF file with tetraploid genotypes from one or more populations
